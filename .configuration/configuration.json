@@ -1,0 +1,12 @@
+{
+  "seed": 333013052,
+  "commits": 10,
+  "branches": 1000,
+  "tags": 1000,
+  "files": [
+    {
+      "size": 512,
+      "count": 100
+    }
+  ]
+}
